@@ -1,4 +1,4 @@
-# omarbuzdar-jpa02
+# STARTER-jpa02
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-s21/STARTER-jpa02
   https://cs156-s21-jpa02-cgaucho.herokuapp.com
 
 
-On Heroku: https://jpa02-omarbuzdar.herokuapp.com/
+On Heroku: https://cs156-s21-jpa02-cgaucho.herokuapp.com
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
